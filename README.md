@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 欢迎来到我的 GitHub 主页！
 
-![访客统计](https://count.getloli.com/get/@dzlms?theme=moebooru)
+![访客统计](https://count.getloli.com/get/@dzlms?theme=booru-jaypee)
 
 ---
 <!--
