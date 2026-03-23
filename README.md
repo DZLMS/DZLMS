@@ -4,7 +4,6 @@
 ![访客统计](https://count.getloli.com/get/@dzlms?theme=moebooru)
 
 ---
-我是一名 C++ 初学者，正在探索 GitHub 的奥秘。
 <!--
 **DZLMS/DZLMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
